@@ -1,0 +1,22 @@
+table{
+    margin: auto;
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    border: 2px solid black;
+    border-style: solid;
+    border-collapse: collapse;
+}
+#topo{
+    background-color: #0d7451;
+    color: #ffffff;
+    font-size: 18px;
+}
+#trt{
+    background-color: #0d7451;
+    color: #ffffff;
+}
+tr, td{
+    border: 2px solid black;
+    border-style: solid;
+}
